@@ -1,0 +1,24 @@
+{
+    "name": "websocket-canvas",
+    "version": "0.1.0",
+    "description": "websocket-testing",
+    "dependencies": {
+      "express": "4.10.2",
+      "socket.io": "1.2.0"
+    },
+
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "eric le",
+  "license": "ISC",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:protected-brushlands-4157.git"
+  }
+}
